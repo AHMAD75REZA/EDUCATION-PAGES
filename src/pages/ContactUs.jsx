@@ -26,8 +26,8 @@ const ContactUs = () => {
           <FaLocationDot className="text-4xl text-red-500 mb-2" />
           <h1 className="text-lg font-bold mb-1">Our Address</h1>
           <h4 className="text-sm">
-            VYNX OVERSEAS CONSULTANCY BUSINESS: 113 Al Makeen Building, Dubai
-            International Airport Road, P.O. Box 1464
+            VYNX OVERSEAS CONSULTANCY BUSINESS: Plot No-282 Rajenderanagar, 
+            Hyderabad, India Postcode: 500 089
           </h4>
         </div>
 
